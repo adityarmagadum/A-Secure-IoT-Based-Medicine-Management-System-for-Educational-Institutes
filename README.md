@@ -61,6 +61,32 @@ Data Storage: Excel workbook (medicine.xlsx)
 We have prepared a complete hardware demonstration:
 👉 Demo Video https://drive.google.com/file/d/1sWW4HSKs-a3PoucK_5NsvUZpjuOdx904/view?usp=sharing
 
+## 📖 Research Paper
+
+This project has been presented as a paper titled:
+
+**“A Secure IoT-Based Medicine Management System for Educational Institutes”**
+
+at the **7th International Conference on Communication and Computational Technologies (ICCCT 2025)**, organized in Hybrid Mode by:
+
+National Forensic Sciences University, Goa Campus, India
+
+Florida International University, Miami, FL, USA
+
+📌 The paper is yet to be published in the conference proceedings.
+
+## 👥 Authors
+
+Deeksha K N
+
+Aditya Raosab Magadum
+
+Sneha R
+
+Lohith J J
+
+Ajay Kumar Dwivedi
+
 ## 🚀 Future Enhancements
 
 1. Web-based monitoring dashboard
