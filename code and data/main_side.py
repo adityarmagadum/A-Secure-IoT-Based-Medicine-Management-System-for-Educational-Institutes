@@ -13,8 +13,8 @@ import time
 from RPLCD.i2c import CharLCD
 
 # Replace 'YOUR_AIO_USERNAME' and 'YOUR_AIO_KEY' with your actual Adafruit IO username and key
-AIO_USERNAME = 'Aditya715'  # Your Adafruit IO username
-AIO_KEY = 'aio_EraE02ZOZGDTr6rNqZvwp6uTYFLB'            # Your Adafruit IO Key
+AIO_USERNAME = ''  # Your Adafruit IO username
+AIO_KEY = ''            # Your Adafruit IO Key
 
 # Initialize the Adafruit IO client
 aio = Client(AIO_USERNAME, AIO_KEY)
